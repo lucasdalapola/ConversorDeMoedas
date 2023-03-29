@@ -1,11 +1,3 @@
-
-
-
-'''''#exercicio de conversor de moeda
-r=float(input('Quanto de dinheiro voce tem na carteira? R$'))
-d=r/5.61
-print('Com R${:.2f} voce compra US${:.2f}'.format(r,d))'''
-
 print('-'*50)
 pergunta = float(input('Quanto de dinheiro você tem? R$ '))
 opcao = 0
